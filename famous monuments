@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Famous monuments</title>
+</head> 
+<body>
+    <h1>Famous Monuments</h1>
+    <ul>
+        <li>Taj Mahal</li>
+        <li>Sydeny Opera House</li>
+        <li>Great Wall Of China</li>
+        <li>Statue Of Liberty</li>
+        <li>Eiffel Tower</li>
+        <li>Arc De Triomphe</li>
+    </ul>
+</body>
